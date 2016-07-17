@@ -1,0 +1,15 @@
+{
+	"name": "The London Eye",
+	"description": "The London Eye is a giant Ferris wheel on the South Bank of the River Thames in London.",
+	"image": "https://goo.gl/bTC9cx",
+	"ginfo":{
+		"place_id": "ChIJKxfdNMYEdkgRXREACfZvMss",
+		"geometry": {
+			"location": {
+			 "lat": 51.5033808,
+			 "lng": -0.1203767
+			}
+		},
+		"formatted_address": "London Eye Pier, Westminster Bridge Rd, South Bank, London SE1 7PB, UK"
+	}
+}
